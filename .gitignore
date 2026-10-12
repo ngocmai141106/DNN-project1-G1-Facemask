@@ -13,3 +13,4 @@ ENV/
 .env
 .env.*
 !.env.example
+mask_complex_CNN_01.keras
